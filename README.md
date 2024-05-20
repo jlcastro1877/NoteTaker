@@ -51,6 +51,15 @@
   ###  * WHEN I click on the "New Note" button in the navigation at the top of the page
   ###  * THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
+![image](https://github.com/jlcastro1877/NoteTaker/assets/161878013/618a9647-9e52-43b0-8f8f-b15a52f30b95)
+![image](https://github.com/jlcastro1877/NoteTaker/assets/161878013/04e09678-005f-4821-8b11-e73af612f854)
+![image](https://github.com/jlcastro1877/NoteTaker/assets/161878013/7a9bf072-85b6-4362-9638-cbfd444017e5)
+![image](https://github.com/jlcastro1877/NoteTaker/assets/161878013/174a72ed-478d-4447-a498-64286477e9d8)
+![image](https://github.com/jlcastro1877/NoteTaker/assets/161878013/b2fb1ff5-f52c-4d46-8b37-bdac6b01c5a7)
+
+
+
+
 
   
 
